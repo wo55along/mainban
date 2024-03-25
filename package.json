@@ -1,6 +1,6 @@
 {
   "name": "wo55along/mainban",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "",
   "type": "module",
   "main": "coin_scan_binance.js",
